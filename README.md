@@ -15,9 +15,13 @@ Software Intern at Capgemini– Hands-on experience in data science and machine 
 🔹 Technical Skills:
 
 Programming: Java, Python, JavaScript, Dart
+
 Development: React, Node.js, Express.js, Flask
+
 System Design: Scalability, Microservices, Cloud Architecture
+
 Databases: MySQL
+
 Tools & Platforms: Git, AWS
 
 
