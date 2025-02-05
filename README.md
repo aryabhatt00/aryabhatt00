@@ -1,7 +1,22 @@
 ### I'm Aryabhatt
 
-- 🌱 I’m currently learning Java
-- 💬 Ask me about Python,Gaming
+👋 Hi, I'm Aryabhatt Narasimha Rao Kankipati!
+🚀 Software Engineer | System Design Enthusiast | Tech Explorer
+
+👨‍💻 About Me
+I'm a passionate software engineer with experience in web development, system design, and data science. Currently pursuing my Master’s at Eastern Illinois University, I thrive on solving complex problems and building scalable solutions.
+
+🔹 Experience:
+
+Senior Software Engineer at Capgemini – Specialized in web development, Python, and scalable applications
+Software Intern at Capgemini– Hands-on experience in data science and machine learning
+🔹 Technical Skills:
+
+Programming: Java, Python, JavaScript, Dart
+Development: React, Node.js, Express.js, Flask
+System Design: Scalability, Microservices, Cloud Architecture
+Databases: MySQL
+Tools & Platforms: Git, AWS
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aryabhatt00&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
