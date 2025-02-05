@@ -20,7 +20,7 @@ Development: React, Node.js, Express.js, Flask
 
 System Design: Scalability, Microservices, Cloud Architecture
 
-Databases: MySQL
+Databases: SQL
 
 Tools & Platforms: Git, AWS
 
