@@ -9,7 +9,7 @@ I'm a passionate software engineer with experience in web development, system de
 
 🔹 Experience:
 
-Senior Software Engineer at Capgemini – Specialized in web development, Python, and scalable applications
+Senior Software Engineer at Capgemini – Specialized in web development, Java, Python, and scalable applications
 Software Intern at Capgemini– Hands-on experience in data science and machine learning
 
 🔹 Technical Skills:
