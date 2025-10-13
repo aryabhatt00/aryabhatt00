@@ -1,6 +1,6 @@
-### I'm Aryabhatt
+### Hey
 
-👋 Hi, I'm Aryabhatt Narasimha Rao Kankipati!
+👋 I'm Aryabhatt Narasimha Rao Kankipati!
 🚀 Software Engineer | System Design Enthusiast | Tech Explorer
 
 👨‍💻 About Me
